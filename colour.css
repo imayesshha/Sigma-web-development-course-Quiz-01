@@ -1,0 +1,16 @@
+body{
+background-color: rgb(149, 237, 237);
+
+}
+h1{
+
+    color: rgb(245, 26, 70);
+    
+}
+
+iframe{
+
+border-radius: 1%;
+border-color: deeppink;
+border-width: 0.5cm;
+}
